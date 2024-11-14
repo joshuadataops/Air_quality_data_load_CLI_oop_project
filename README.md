@@ -1,5 +1,5 @@
 # Air_quality_data_load_CLI_oop_project
-In this project, we were provided with an external data source in the form of a csv file.
+In the project we were provided with a data source in the form of a csv file.
 The objectives of the project included: 
 1. Load data in the form of objects for manipulation.
    1.a. Parse and clean data during load
