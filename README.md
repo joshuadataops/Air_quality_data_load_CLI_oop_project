@@ -1,5 +1,4 @@
 # Air_quality_data_load_CLI_oop_project
-Air quality data load from csv with object creation and command line program
 In this project, we were provided with an external data source in the form of a csv file.
 The objectives of the project included: 
 1. Load data in the form of objects for manipulation.
